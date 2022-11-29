@@ -1,0 +1,4 @@
+**/App.tsx
+/node_modules
+.prettierrc
+package.json
